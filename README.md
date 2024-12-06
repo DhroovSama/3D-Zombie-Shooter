@@ -1,5 +1,3 @@
-Here’s the updated GitHub README with the embedded YouTube link:
-
 ---
 
 # Zombie Shooter 3D
@@ -36,16 +34,6 @@ Check out the gameplay on YouTube:
   
 - **Singleton Pattern**:
   - Centralized management of global game states and resources, ensuring consistent performance and seamless experience.
-
----
-
-## 🚀 **Installation and Setup**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/zombie-shooter-3d.git
-   ```
-2. Open the project in Unity (version 2021.3.0 or later recommended).
-3. Build and play!
 
 ---
 
