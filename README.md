@@ -1,5 +1,3 @@
-Here's the updated GitHub README without the "Clone the repository" part:
-
 ---
 
 # Zombie Shooter 3D
