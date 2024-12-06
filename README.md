@@ -1,3 +1,5 @@
+Here's the updated GitHub README without the "Clone the repository" part:
+
 ---
 
 # Zombie Shooter 3D
@@ -37,6 +39,12 @@ Check out the gameplay on YouTube:
 
 ---
 
+## 🚀 **Setup**
+1. Open the project in Unity (version 2021.3.0 or later recommended).
+2. Build and play!
+
+---
+
 ## 🛠️ **Future Enhancements**
 - Add new zombie types with unique behaviors.
 - Introduce multiplayer mode for cooperative play.
@@ -61,3 +69,5 @@ We welcome contributions! Feel free to fork the repository, create a new branch,
 ---
 
 Enjoy playing **Zombie Shooter 3D**! 🚀
+
+---
